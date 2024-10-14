@@ -1,7 +1,7 @@
-name: atividadenubanklucas
-description: A new Flutter project.
+name: NubankATV
+description: Personalização de um projeto Flutter inspirado no Nubank.
 
-version: 1.0.0+1
+version: 1.0.0+2
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
